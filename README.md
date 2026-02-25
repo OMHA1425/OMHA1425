@@ -15,6 +15,7 @@ I enjoy cleaning datasets, creating visualizations, and finding meaningful patte
 
 Actively looking for entry-level Data Analyst position.
 
+
 ---
 
 ### Skills
