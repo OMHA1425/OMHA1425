@@ -13,7 +13,7 @@
 BCA graduate (2025) focused on data analysis.  
 I enjoy cleaning datasets, creating visualizations, and finding meaningful patterns that help make better decisions.
 
-Actively looking for entry-level Data Analyst positions.
+Actively looking for entry-level Data Analyst position.
 
 ---
 
@@ -28,20 +28,5 @@ Actively looking for entry-level Data Analyst positions.
 
 ---
 
-### Featured Projects
-
-*Sales Performance Dashboard*  
-Interactive Power BI dashboard analyzing large sales dataset
-
-
-*Customer Churn Analysis*  
-Exploratory data analysis and visualization with Python and Pandas  
-
-
-*Retail Data Insights*  
-Data cleaning and automated reporting pipeline  
-
-
----
 
 Open to entry-level opportunities and collaborations in data analytics
